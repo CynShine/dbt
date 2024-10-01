@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: massachusset_pediatric
+    database: projectasthma
+    schema: massachusset_pediatric
+    tables:
+      - name: county_total
